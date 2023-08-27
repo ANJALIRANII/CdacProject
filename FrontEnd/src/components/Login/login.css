@@ -1,0 +1,65 @@
+.login{
+    height: 500px;
+    width: 350px;
+    background-color: rgba(255, 255, 255, 0.575);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 52%;
+    left: 70%;
+    border-radius: 10px;
+    backdrop-filter: blur(2px);
+    border: 2px solid rgba(255, 255, 255, 0.507);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 50px 35px;
+    }
+
+.register{
+    height: 620px;
+    width: 550px;
+    background-color: rgba(255, 255, 255, 0.575);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 52%;
+    left: 70%;
+    border-radius: 10px;
+    backdrop-filter: blur(2px);
+    border: 2px solid rgba(255, 255, 255, 0.507);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 50px 35px;
+    }
+    .forget{
+        height: 300px;
+        width: 400px;
+        background-color: rgba(255, 255, 255, 0.575);
+        position: absolute;
+        transform: translate(-50%,-50%);
+        top: 52%;
+        left: 70%;
+        border-radius: 10px;
+        backdrop-filter: blur(2px);
+        border: 2px solid rgba(255, 255, 255, 0.507);
+        box-shadow: 0 0 40px rgba(8,7,16,0.6);
+        padding: 50px 35px;
+        }
+
+        a {
+            cursor: pointer;
+          }
+          .newPassword{
+            height: 300px;
+            width: 400px;
+            background-color: rgba(255, 255, 255, 0.575);
+            position: absolute;
+            transform: translate(-50%,-50%);
+            top: 52%;
+            left: 70%;
+            border-radius: 10px;
+            backdrop-filter: blur(2px);
+            border: 2px solid rgba(255, 255, 255, 0.507);
+            box-shadow: 0 0 40px rgba(8,7,16,0.6);
+            padding: 50px 35px;
+            }
+    
+            a {
+                cursor: pointer;
+              }

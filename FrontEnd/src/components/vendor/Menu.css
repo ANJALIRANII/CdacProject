@@ -1,0 +1,16 @@
+.menu {
+    margin-top: 20px;
+  }
+  
+  .list-group-item {
+    border: none;
+    border-radius: 0;
+    font-size: 18px;
+    color: #555;
+  }
+  
+  .list-group-item:hover {
+    background-color: #030303;
+    color: rgb(250, 166, 11);
+  }
+  

@@ -1,0 +1,43 @@
+/* OrderStatus.module.css */
+
+body {
+    background-color: #f7f7f7;
+  }
+  
+  .card {
+    background-color: #0090a9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* margin: 20px auto; */
+    max-width: 600px;
+    padding: 20px;
+  }
+  
+  .card h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .card p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .card button {
+    background-color: #0b0a0a;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+  }
+  
+  .card button:hover {
+    background-color: #b84a92;
+  }
+  
